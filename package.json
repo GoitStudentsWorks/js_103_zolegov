@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/techtitans/",
+    "build": "vite build --base=/js_103_zolegov/",
     "preview": "vite preview"
   },
   "devDependencies": {
